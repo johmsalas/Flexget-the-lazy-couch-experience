@@ -62,9 +62,9 @@ In non-Flexget/non-technical terms, this guide will allow Flexget to leverage th
 - - - -
 
 ### Installation of software ###
-Hardware: a Raspberry Pi 3 or (recommended) [Vero 4K](https://osmc.tv/store/). You can use any Debian based OS but I highly recommend [OSMC, "Open Source Meda Center"](https://osmc.tv/download/). It is an OS for Raspberry Pi and Vero, based on Debian and perfectly tweaked to run Kodi on those devices. Also buy a 2TB external USB harddrive. I highly recommend to go for a silent one, NOT a fast one (2.5", 7mm, 5400rpm is enough). 
+Hardware: a Raspberry Pi 3. Also buy a 2TB external USB harddrive. I highly recommend to go for a silent one, NOT a fast one (2.5", 7mm, 5400rpm is enough). 
 
-1. After commecting your RPi3 or Vero to your tv, installing or updating OSMC (follow the instructions on https://osmc.tv/download) use your TV remote and go to MyOSMC > App Store and install Transmission (recommended: also go to Services and enable SAMBA server to be able to view your files on your Windows or Android device). 
+1. Install Raspbian on the Raspberry
 
 2. Create a (free, private) account on https://Trakt.tv. Create a list called "tvshows" and add the shows you would like to see, make sure these shows are not "ended" on trakt. Also mark episodes/seasons you have already seen as watched otherwise they will be downloaded. 
 
